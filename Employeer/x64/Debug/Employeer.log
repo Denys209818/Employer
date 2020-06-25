@@ -1,0 +1,7 @@
+﻿  Main.cpp
+  Manager.cpp
+  President.cpp
+  Worker.cpp
+  Создание кода...
+D:\Employer\Employeer\Main.cpp(8,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Employeer.vcxproj -> D:\Employer\x64\Debug\Employeer.exe
